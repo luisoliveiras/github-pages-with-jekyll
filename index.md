@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my github pages training log.
 
-I'm glad you are here. I plan to talk about ...
+I'm learning to create web pages on github pages.
+
+This is the second step of the course.
